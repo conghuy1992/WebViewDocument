@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Example</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="no_internet">App chỉ hoạt động khi có internet. Bạn vui lòng kiểm tra kết nối internet và thử lại\n Pull to reload page</string>
+</resources>
